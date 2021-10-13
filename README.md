@@ -1,1 +1,1 @@
-# browngirl.money
+#Next js Blog
